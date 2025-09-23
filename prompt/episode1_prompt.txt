@@ -1,0 +1,14 @@
+[Scripts Prompt]
+" Write a children's story epsiode (5 minutes long) featuring tiny chibi superheroes called Mini Heroes.
+Theme: Teamwork
+Character: Lumo(light power), 
+Villian: "
+
+[Image Prompt]
+""
+
+[Audio Prompt]
+""
+
+[Video Prompt]
+""
