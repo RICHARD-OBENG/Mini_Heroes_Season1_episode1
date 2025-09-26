@@ -1,14 +1,73 @@
 [Scripts Prompt]
-" Write a children's story epsiode (5 minutes long) featuring tiny chibi superheroes called Mini Heroes.
-Theme: Teamwork
-Character: Lumo(light power), 
-Villian: "
+"""Generate script prompt including characters, theme, villain Make dialogue fun The title is captain clean helps Tommy tidy his room 
+Purpose: teaches the importance of cleanliness and responsibility by showing how keeping a tidy space to fun and rewarding.""
+
+[Characters]
+"""Captain Clean 🦸‍♂️: A cheerful, superhero mentor who loves sparkling spaces. He has a magical broom and a bucket that talks.
+Tommy 👦: A playful, sometimes lazy boy who doesn’t like tidying his room.
+Dustzilla 🦠: The villain—made of dust, socks, and clutter. He grows stronger in messy rooms.
+Sparkle the Bucket 🪣: Captain Clean’s sidekick, full of jokes and encouragement.""" 
+
 
 [Image Prompt]
-""
+"""
+🎨 Character Prompts
+1. Captain Clean 🦸
+
+Prompt:
+A cheerful superhero with bright blue and white costume, shiny silver belt with a broom emblem, flowing cape that sparkles like soap bubbles. 
+He carries a magical broom glowing with golden light. Smiling face, kind eyes, muscular but friendly build. 
+Dynamic heroic pose, cartoon/anime style, bright colors, kid-friendly design. Background: glowing sparkles of cleanliness.
+
+2. Tommy 👦
+
+Prompt:
+A playful young boy about 7–8 years old, messy brown hair, wearing a red T-shirt, blue shorts, and mismatched socks. 
+He has a cheeky smile and expressive eyes. 
+Sitting in a messy room with toys scattered around him. 
+Cartoon/anime style, vibrant colors, full of energy and childlike charm.
+
+3. Sparkle the Bucket 🪣
+Prompt:
+A cute, talking bucket with big round cartoon eyes and a wide goofy grin. 
+Bright metallic silver body, with colorful cleaning brushes and sponges sticking out. 
+Has little cartoon arms and legs for movement, bounces with playful energy. Cartoon style, fun and silly design. Background: soap bubbles and sparkles.
+
+4. Dustzilla 🦠
+Prompt:
+A funny but slightly spooky dust monster made of swirling gray dust, socks, and clutter. 
+Big glowing yellow eyes, jagged mouth, and a lumpy oversized body. Not too scary—more silly and exaggerated, like a cartoon villain. 
+Smoke and dust clouds surround him. Cartoon/anime style, exaggerated features, messy and chaotic vibe."""
 
 [Audio Prompt]
-""
+"""
+🎙️ Audio/Voice Prompts
+
+1. Captain Clean 🦸
+Prompt:
+"A cheerful, confident superhero voice. 
+Medium-deep tone, full of energy and encouragement. 
+Speaks with enthusiasm, always sounding heroic and positive. 
+Example: ‘Not so fast, Dustzilla! A tidy room is a mighty room!’"
+
+2. Tommy 👦
+
+Prompt:
+"A playful young boy’s voice, around 7–8 years old. Curious, energetic, sometimes whiny when he doesn’t want to do chores, but full of excitement once motivated. 
+Example: ‘Ughhh, do I really have to clean my room? Oh wow, this is actually fun!’"
+
+3. Sparkle the Bucket 🪣
+
+Prompt:
+"A silly, high-pitched cartoon voice with lots of humor. 
+Very bouncy, talkative, and full of jokes. Slightly squeaky and playful. 
+Example: ‘Why did the broom go to school? To sweep up knowledge! Hahaha!’"
+
+4. Dustzilla 🦠
+
+Prompt:
+"A deep, rumbling villain voice, but exaggerated and funny so it’s not too scary for kids. 
+Growly, dramatic, with evil laughter. Example: ‘Mwahaha! The messier it gets, the stronger I become!’""""
 
 [Video Prompt]
 ""
